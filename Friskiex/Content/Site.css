@@ -1,0 +1,16 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+}
+
+titulo {
+    font-size: 100px;
+}
+
+li {
+}
+
+div > titulo {
+    color: blue;
+}
