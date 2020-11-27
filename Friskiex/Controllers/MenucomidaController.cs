@@ -11,6 +11,7 @@ namespace Friskiex.Controllers
         // GET: Menucomida
         public ActionResult Index()
         {
+            ViewBag.Nombre = "Nuestro Menú";
             return View();
         }
     }
